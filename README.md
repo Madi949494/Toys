@@ -9,3 +9,4 @@ phyton 2
 Java 
 wifi Java 
 Java cody
+nado kajdiy den
